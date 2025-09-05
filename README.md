@@ -4,4 +4,4 @@ As an enthusiastic and committed young professional, I possess a sincere passion
 ## 🚀 About Me
 - 🌍 Based in the Philippines PH
 - 🎓 Instructor in **Computer Science** at the **University of Mindanao**
-- 🌱 Currently interested in **Machine Learning**, **Cybersecurity** and **Open Source Contributions**
+- 🌱 Currently interested in **Machine Learning** (Image Processing and Natural Language Processing), **Cybersecurity** and **Open Source Contributions**
