@@ -1,7 +1,8 @@
 # Hi, I’m @KJSendrejas 👋
-As an enthusiastic and committed young professional, I possess a sincere passion for education and a strong desire to contribute to the academic community. My dedication to software development matches my eagerness to impart knowledge and inspire the next generation of innovators.
+I’m a Computer Science educator and lifelong learner passionate about building intelligent systems and shaping future innovators. I combine academic rigor with practical software development to create meaningful, real-world solutions.
 
 ## 🚀 About Me
 - 🌍 Based in the Philippines PH
-- 🎓 Instructor in **Computer Science** at the **University of Mindanao**
-- 🌱 Currently interested in **Machine Learning** (Image Processing and Natural Language Processing), **Cybersecurity** and **Open Source Contributions**
+- 🎓 **BS Computer Science** instructor at the **University of Mindanao**
+- 👨‍🎓 **MS Computer Science** student at the **Technological Institute of the Philippines - QC**
+- 🌱 Currently exploring **Machine Learning**, **Cybersecurity** and **Open Source Development**
