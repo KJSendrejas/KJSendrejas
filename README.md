@@ -1,10 +1,10 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KJSendrejas&label=Profile%20Views&color=lightgrey&style=flat" />
-</p>
-
 <p align="center">
 I’m a Computer Science educator and lifelong learner passionate about building intelligent systems and shaping future innovators.  
 I combine academic rigor with practical software development to create meaningful, real-world solutions.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KJSendrejas&label=Profile%20Views&color=lightgrey&style=flat" />
 </p>
 
 ## 🚀 About Me
@@ -19,14 +19,8 @@ I combine academic rigor with practical software development to create meaningfu
 - Data Structures & Algorithms
 - Educational Technology
   
----
-
 ## 👨‍💻 Technologies & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,react,next,spring" /><br>
   <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,matlab,git,github,linux,kali" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KJSendrejas&theme=github_dark" />
 </p>
