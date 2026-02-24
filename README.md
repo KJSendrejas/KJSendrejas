@@ -22,5 +22,7 @@ I combine academic rigor with practical software development to create meaningfu
 ## 👨‍💻 Technologies & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,react,next,spring" /><br>
-  <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,matlab,git,github,linux,kali" />
+  <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,matlab,git,github,linux,kali" /> <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KJSendrejas&theme=dark&hide_border=true"/>
 </p>
+
