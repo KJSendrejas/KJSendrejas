@@ -1,5 +1,5 @@
 <p align="center">
-I’m a Computer Science educator and lifelong learner passionate about building intelligent systems and shaping future innovators.  
+I’m a Computer Science instructor and lifelong learner passionate about building intelligent systems and shaping future innovators.  
 I combine academic rigor with practical software development to create meaningful, real-world solutions.
 </p>
 
