@@ -23,6 +23,8 @@ I combine academic rigor with practical software development to create meaningfu
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,react,next,spring" /><br>
   <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,matlab,git,github,linux,kali" /> <br>
-  <img src="https://nirzak-streak-stats.vercel.app?user=KJSendrejas&theme=github-dark-dimmed&hide_border=true&short_numbers=true" />
+  <img src="https://streak-stats.demolab.com?user=KJSendrejas&theme=blueberry&hide_border=true" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJSendrejas&theme=blueberry&show_icons=true&hide_border=true&layout=compact" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=KJSendrejas&theme=blueberry&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
