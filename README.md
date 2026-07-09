@@ -7,19 +7,19 @@ I combine academic rigor with practical software development to create meaningfu
   <img src="https://komarev.com/ghpvc/?username=KJSendrejas&label=Profile%20Views&color=lightgrey&style=flat" />
 </p>
 
-## 🚀 About Me
-- 🌍 Based in the **Philippines**
-- 🎓 **BS Computer Science Instructor** at the **University of Mindanao**
-- 👨‍🎓 **MS Computer Science Student** at the **Technological Institute of the Philippines - QC**
-- 🌱 Currently exploring **Machine Learning**, **Cybersecurity**, and **Open Source Development**
+##  About Me
+-  Based in the **Philippines**
+-  **BS Computer Science Instructor** at the **University of Mindanao**
+-  **MS Computer Science Student** at the **Technological Institute of the Philippines - QC**
+-  Currently exploring **Machine Learning**, **Cybersecurity**, and **Open Source Development**
 
-## 🧠 Research & Interests
+##  Research & Interests
 - Artificial Intelligence & Deep Learning
 - Cybersecurity & Secure Systems
 - Data Structures & Algorithms
 - Educational Technology
   
-## 👨‍💻 Technologies & Skills
+##  Technologies & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,react,next,spring" /><br>
   <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,matlab,git,github,linux,kali" /> <br>
